@@ -1,0 +1,13 @@
+﻿  test3.cpp
+c:\users\asus\source\repos\test3\test3\test3.cpp(66): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“BinTNode”
+c:\users\asus\source\repos\test3\test3\test3.cpp(239): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\asus\source\repos\test3\test3\test3.cpp(265): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\users\asus\source\repos\test3\test3\test3.cpp(226): warning C4101: “k”: 未引用的局部变量
+c:\users\asus\source\repos\test3\test3\test3.cpp(226): warning C4101: “j”: 未引用的局部变量
+c:\users\asus\source\repos\test3\test3\test3.cpp(226): warning C4101: “i”: 未引用的局部变量
+c:\users\asus\source\repos\test3\test3\test3.cpp(226): warning C4101: “n”: 未引用的局部变量
+c:\users\asus\source\repos\test3\test3\test3.cpp(99): warning C4715: “SearchNode”: 不是所有的控件路径都返回值
+c:\users\asus\source\repos\test3\test3\test3.cpp(152): warning C4715: “QueueFront”: 不是所有的控件路径都返回值
+  test3.vcxproj -> C:\Users\asus\source\repos\test3\Debug\test3.exe
